@@ -19,3 +19,4 @@ It is best to first install fastai v1 to ensure you have all the correct depende
 To get started, run Jupyter Notebook (or use one of the online Jupyter platforms listed at https://course.fast.ai) and click on the *app_jupyter.ipynb* notebook.
 
 We'll be adding more information to this site as the official book release in July 2020 gets closer.
+
