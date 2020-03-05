@@ -8,7 +8,7 @@ Note that these require you to use fastai v2, which is currently in pre-release.
 
 ## Install
 
-Clone the draft notebooks repo, and then from that directory:
+Clone the [draft notebooks repo](https://github.com/fastai/fastbook), and then from that directory:
 
     pip install -r requirements.txt
 
