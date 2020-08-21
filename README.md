@@ -4,7 +4,7 @@
 
 This information is for readers of the Early Access version of [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and of the fastai [draft notebooks](https://github.com/fastai/fastbook).
 
-Note that these require you to use fastai v2, which is currently in pre-release. During pre-release, this module is called `fastai2`. The draft notebooks contain the correct imports for `fastai2`, but the PDF book does not - it uses `fastai`. Therefore, you should change `fastai` to `fastai2` in all import statements.
+Note that these require you to use fastai v2, which is currently in pre-release. During pre-release, this module is called `fastai`. The draft notebooks contain the correct imports for `fastai`, but the PDF book does not - it uses `fastai`. Therefore, you should change `fastai` to `fastai` in all import statements.
 
 ## Install
 
